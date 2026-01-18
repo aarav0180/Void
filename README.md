@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Void Browser Banner" width="1200" />
+   <img src="https://i.ibb.co/zhhDrwj0/banner.png" alt="Void Browser Banner" width="1200" />
   <p><em>Silence the noise. Keep the signal.</em></p>
 </div>
 
@@ -94,7 +94,7 @@ npm run build
 ## Development Tips
 - Animations use framer-motion; keep durations/ease consistent when adding sections
 - Hero form already handles loading/error states; reuse `storeEmail` for other captures
-- Assets: banner expected at `public/banner.png` (update path if different)
+- Assets: banner served from hosted URL `https://i.ibb.co/zhhDrwj0/banner.png` (update if you change it)
 
 ## Scripts
 - `npm run dev` — start dev server
