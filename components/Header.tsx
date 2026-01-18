@@ -43,7 +43,8 @@ const Header: React.FC = () => {
             {/* <div className="w-13 h-8 rounded-lg flex items-center justify-center border border-white/10 shadow-[0_0_15px_rgba(109,40,217,0.3)]">
               
             </div> */}
-            <img src="/logoo.png" alt="Void Logo" className="w-13 h-10 rounded-lg" />
+            <a href="https://ibb.co/mfHX2BJ"><img src="https://i.ibb.co/1F9dPnZ/logoo.png" alt="Void Logo" className="w-13 h-10 rounded-lg"/></a>
+            {/* <img src="/logoo.png" alt="Void Logo" className="w-13 h-10 rounded-lg" /> */}
             <span className="font-playfair text-xl font-bold tracking-tight text-white">Void</span>
           </motion.div>
 
