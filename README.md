@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://i.ibb.co/zhhDrwj0/banner.png" alt="Void Browser Banner" width="1200" />
+   <img src="https://i.ibb.co/zhhDrwj0/banner.png" alt="Void Browser Banner" width="1024" />
   <p><em>Silence the noise. Keep the signal.</em></p>
 </div>
 
